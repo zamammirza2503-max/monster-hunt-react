@@ -1,6 +1,6 @@
 ## Monster Hunt
 
-A polished 2D browser game built with React + TypeScript + HTML5 Canvas + Vite.
+A 2D browser game engineered with React, TypeScript, HTML5 Canvas, and Vite, featuring real-time rendering, responsive controls, dynamic gameplay, progressive difficulty, and a modular application architecture.
 
 The project starts from the classic canvas-game fundamentals—keyboard input, a frame-independent game loop, rendering and collision detection—and turns them into a portfolio-ready React application with reusable components, custom game logic, responsive UI, pause/game-over states, progressive difficulty, local high scores and automated tests.
 
